@@ -16,29 +16,40 @@
 ## 🛠 Tech Stack
 
 ### Frontend
-- React.js, Next.js
-- TypeScript, JavaScript
-- Tailwind CSS, shadcn/ui
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### Backend
-- Node.js, Express.js
-- REST APIs, tRPC
-- Authentication (NextAuth, Firebase JWT)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+
 
 ### Databases
-- PostgreSQL (Drizzle ORM)
-- MongoDB (Mongoose ODM)
-- MySQL
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-000000?style=for-the-badge)
+
 
 ### AI & Integrations
-- AI-powered agents & assistants
-- Webhooks & third-party API integrations
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai)
+![Webhooks](https://img.shields.io/badge/Webhooks-FF6F00?style=for-the-badge)
+
+
+### Auth & Payments
+![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge)
+
+
 
 ### Tools & Platforms
-- Git & GitHub
-- Postman
-- Vercel
-- VS Code, IntelliJ IDEA
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+
 
 ---
 
@@ -83,7 +94,7 @@
 
 ## 📫 Connect With Me
 - GitHub: https://github.com/menacefg78
-- LinkedIn: https://linkedin.com/in/farhan-gouri
+- LinkedIn: https://www.linkedin.com/in/farhan-gouri-b96698306/
 - Email: farhangouri013@gmail.com
 
 ---
