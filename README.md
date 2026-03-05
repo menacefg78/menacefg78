@@ -37,7 +37,7 @@
 ```yaml
 name: Farhan Gouri
 role: Full-Stack Developer & AI Engineer
-vibe: gothic · focused · builder
+vibe: innovative · focused · builder
 focus:
   - AI-powered web applications
   - Scalable backend systems
