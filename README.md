@@ -201,39 +201,6 @@ philosophy: "Ship fast. Build well. Learn always."
 
 </div>
 
-<details>
-<summary><b>⚡ First time? Click to set up the Snake (2 min)</b></summary>
-<br/>
-
-1. In your `menacefg78` repo → **Settings → Actions → General**
-2. Under **Workflow permissions** → select **"Read and write permissions"** → Save
-3. Create `.github/workflows/snake.yml`:
-
-```yaml
-name: Generate Snake
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: menacefg78
-          outputs: dist/github-contribution-grid-snake-dark.svg
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-4. **Actions tab** → **"Generate Snake"** → **"Run workflow"** → Done! 🐍
-
-</details>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
